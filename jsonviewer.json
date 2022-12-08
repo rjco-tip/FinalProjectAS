@@ -2,21 +2,31 @@
   {
     "id": "1",
     "img_src": "https://picsum.photos/id/1/5000/3333"
+    "type": "none"
+    "price": "100"
   },
   {
     "id": "2",
     "img_src": "https://picsum.photos/id/2/5000/3333"
+    "type": "none"
+    "price": "100"
   },
   {
     "id": "3",
     "img_src": "https://picsum.photos/id/3/5000/3333"
+    "type": "none"
+    "price": "100"
   },
   {
     "id": "4",
     "img_src": "https://picsum.photos/id/4/5000/3333"
+    "type": "none"
+    "price": "100"
   },
   {
     "id": "5",
     "img_src": "https://picsum.photos/id/5/5000/3334"
+    "type": "none"
+    "price": "100"
   }
 ]
