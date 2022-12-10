@@ -14,7 +14,7 @@
   {
     "price":100,
     "id":"3",
-    "type":"none"
+    "type":"none",
     "img_src": "https://picsum.photos/id/3/5000/3333"
   }
 ]
